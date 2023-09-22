@@ -3,7 +3,7 @@ from setuptools import setup
 with open('readme.md','r') as f:
     long_description = f.read()
 
-setup(name='Hello World',
+setup(name='Paulloworld',
       version='0.0.1',
       description="this is a simple hello world program",
       author='paushigaa',
