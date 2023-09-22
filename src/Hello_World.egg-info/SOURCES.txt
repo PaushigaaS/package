@@ -1,7 +1,11 @@
+MANIFEST.in
+readme.md
 setup.py
+dist/Hello_World-0.0.1-py3-none-any.whl
 src/helloworld.py
 src/Hello_World.egg-info/PKG-INFO
 src/Hello_World.egg-info/SOURCES.txt
 src/Hello_World.egg-info/dependency_links.txt
 src/Hello_World.egg-info/requires.txt
 src/Hello_World.egg-info/top_level.txt
+src/__pycache__/helloworld.cpython-310.pyc

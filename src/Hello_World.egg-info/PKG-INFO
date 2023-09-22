@@ -3,6 +3,9 @@ Name: Hello-World
 Version: 0.0.1
 Summary: this is a simple hello world program
 Author: paushigaa
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
 Description-Content-Type: text/markdown
 
 Install the package with:
