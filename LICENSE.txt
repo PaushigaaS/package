@@ -1,0 +1,1 @@
+This package is open-sourced and anyone can use this package into their code.
