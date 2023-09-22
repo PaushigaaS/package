@@ -1,16 +1,16 @@
 Install the package with:
 ```
-pip install Hello-World
+pip install Paulloworld
 ```
 
 Import the package by:
 ```
-from helloworld import hello_world
+from Paulloworld import Paulloworld
 ```
 
 Sample usage:
 ```
-hello_world('Everyone')
+Paulloworld('Everyone')
 ```
 
 Output:
